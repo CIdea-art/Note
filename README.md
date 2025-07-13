@@ -1,2 +1,2 @@
 # Note
-it is private study note.
+个人笔记
